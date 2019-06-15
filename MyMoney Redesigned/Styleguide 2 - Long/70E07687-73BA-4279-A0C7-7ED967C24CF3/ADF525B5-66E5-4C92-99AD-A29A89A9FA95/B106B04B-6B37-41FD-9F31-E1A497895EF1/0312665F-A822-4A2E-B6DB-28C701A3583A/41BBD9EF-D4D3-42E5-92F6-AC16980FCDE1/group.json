@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "41BBD9EF-D4D3-42E5-92F6-AC16980FCDE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 157,
+    "width": 250,
+    "x": 0,
+    "y": 151
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FF3A145F-AD27-44F1-9B14-8A914510145F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B69C899-A922-4F9A-9488-B3728E99F615"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B0D134E-42D5-440B-A25D-479978BF689C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B900D529-E0C3-4EDD-8D6A-0473F5A7051B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A877B4C-8DFA-4F5C-9CFE-CF3F19B18BD4"
+    }
+  ],
+  "name": "Dropdown with Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

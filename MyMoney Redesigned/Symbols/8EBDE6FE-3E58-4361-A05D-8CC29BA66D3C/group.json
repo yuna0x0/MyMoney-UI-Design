@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EBDE6FE-3E58-4361-A05D-8CC29BA66D3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 860,
+    "width": 724,
+    "x": -1130,
+    "y": 1109
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B608EC87-0048-4D18-9429-9337A3FDDF03"
+    },
+    {
+      "class": "text",
+      "id": "B08D42AA-7C9C-49D3-AA51-CC671730A067"
+    },
+    {
+      "class": "text",
+      "id": "C86D6E10-6B10-4ED8-B12B-693E6BC12E43"
+    },
+    {
+      "class": "text",
+      "id": "311F525D-A112-4829-BF7C-58EFA6710674"
+    },
+    {
+      "class": "text",
+      "id": "48597349-CA42-4158-A06D-18A48E1D7573"
+    },
+    {
+      "class": "text",
+      "id": "4ACDD123-85F2-4467-9C41-8525A8213EC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "69CBC25F-0E73-485F-BBE0-3B12AE5463D7"
+    },
+    {
+      "class": "text",
+      "id": "E9A4892F-576A-4BE6-9E3B-45F1B7C9D396"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B67225E-64AE-4D53-8595-B3D90C634EDE"
+    },
+    {
+      "class": "text",
+      "id": "5C07CC7E-B320-484B-8EE2-FA8689E4D855"
+    },
+    {
+      "class": "text",
+      "id": "15180741-FD66-4072-8CE4-426E5D88E7E2"
+    },
+    {
+      "class": "bitmap",
+      "id": "21E83B64-933C-42B7-BC4E-F5DFAF2E56E1"
+    },
+    {
+      "class": "text",
+      "id": "FDAAC25E-B257-4538-810D-18BF35F17A77"
+    },
+    {
+      "class": "text",
+      "id": "CF6B9FDD-2D2B-4CD7-B2E6-F7357EAE1C7A"
+    },
+    {
+      "class": "bitmap",
+      "id": "A0FD9EFD-2A61-467D-99E6-484CF19B2E8A"
+    },
+    {
+      "class": "text",
+      "id": "5038AD40-D765-4D17-8D65-DE6703FFC822"
+    },
+    {
+      "class": "text",
+      "id": "B2FA0579-633E-4A76-8023-5CD3AAAD94D6"
+    }
+  ],
+  "name": "Step 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

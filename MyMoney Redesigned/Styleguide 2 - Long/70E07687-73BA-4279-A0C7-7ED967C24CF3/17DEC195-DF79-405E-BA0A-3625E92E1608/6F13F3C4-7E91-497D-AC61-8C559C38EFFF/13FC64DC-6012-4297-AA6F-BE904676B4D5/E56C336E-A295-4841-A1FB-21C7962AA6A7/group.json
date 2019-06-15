@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E56C336E-A295-4841-A1FB-21C7962AA6A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4DB50463-046B-4012-BC53-C5EF571991B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "7045ED69-A6BF-4CF9-B63B-84EA6A4F288D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6011040-A9E8-403B-A82A-384DF00E7078"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D838C81-369E-4F9B-81E1-4251B3AA1234"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44390317-9BBC-4F5C-89A8-CC0041114F45"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C60481E-2B85-49FF-B3B5-6BCBE3AC1554"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB178D93-248D-4882-9BC3-27782E1BB2F6"
+    },
+    {
+      "class": "rectangle",
+      "id": "547588CA-19C5-40AC-9490-E49EB9A7F787"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E945092E-4682-425F-A3AC-C836E9F9596B"
+    },
+    {
+      "class": "rectangle",
+      "id": "41CF3B42-2A96-4D32-8FFC-A994D885960F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14D1910C-FC05-4AAB-B04E-19FEF302666B"
+    },
+    {
+      "class": "rectangle",
+      "id": "4E31A05C-E264-4040-850F-920601996E37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26EC7487-1B10-4ABC-A3C3-F3BA7CA3112D"
+    }
+  ],
+  "name": "Main Colour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

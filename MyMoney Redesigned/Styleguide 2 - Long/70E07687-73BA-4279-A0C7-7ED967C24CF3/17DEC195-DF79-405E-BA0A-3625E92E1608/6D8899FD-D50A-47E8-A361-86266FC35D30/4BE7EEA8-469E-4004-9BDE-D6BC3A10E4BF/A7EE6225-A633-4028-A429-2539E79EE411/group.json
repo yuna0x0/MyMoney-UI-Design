@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7EE6225-A633-4028-A429-2539E79EE411",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5F6FABBD-6813-4568-8F6D-EF5B92B27359"
+    },
+    {
+      "class": "rectangle",
+      "id": "832CF3FB-DE79-400B-9DFB-A4567CC6C9B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33F42818-398D-439B-91AC-330EADCF8320"
+    },
+    {
+      "class": "rectangle",
+      "id": "EB937327-454F-4ACE-97F6-A957DD211FB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B0EA46A-6CC4-4397-BB63-0DD75DA410FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "C5C26674-9118-4C97-B34A-ABCDAF710D04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A85AF72-5C12-4E19-A14C-210C1F9D5C51"
+    },
+    {
+      "class": "rectangle",
+      "id": "9B62F28F-8223-4201-80E7-86AEA616D275"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8630C3DA-19C7-4D10-9F9E-EEFA3DD461B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5036E03-F284-4ED9-A25D-6CF64A88A399"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "066899EB-7170-47FE-B336-B33C39B4B9F8"
+    },
+    {
+      "class": "rectangle",
+      "id": "23783AA7-E0D8-47E6-B090-C618D1FF6A33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ECA96BF-1F21-474F-9C1A-CADEBAC144ED"
+    }
+  ],
+  "name": "Main Colour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

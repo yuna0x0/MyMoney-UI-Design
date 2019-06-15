@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "72E7B5E7-F3E9-4F84-8021-7FC8F5BD8BD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 141,
+    "x": 275,
+    "y": 500
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D8BFA92C-E7B3-4C8B-88F3-93DA24445415"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B69DD4A-1E9B-41FF-AC23-B158C5E69D35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91F79044-9760-4049-A188-274BFC00B246"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CB5F04C-598B-4941-8B57-AFFD6628883F"
+    },
+    {
+      "class": "text",
+      "id": "94952DEE-9FC0-42AB-9AE3-5B79ADECE5F3"
+    }
+  ],
+  "name": "Radio Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

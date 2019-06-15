@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FA4A914-3BD3-46D2-81E8-3E6FD4E513A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CE7F7EA1-4B40-4ABD-AD77-431DEBF924A4"
+    },
+    {
+      "class": "text",
+      "id": "857D8619-9CF7-41B2-A164-EDF33B5F3043"
+    },
+    {
+      "class": "text",
+      "id": "9B8E537E-9152-4DB6-9AFF-0CC92CEF97B2"
+    },
+    {
+      "class": "text",
+      "id": "96B24D35-96D2-4759-A718-2B231339C271"
+    },
+    {
+      "class": "text",
+      "id": "A1653F5F-A86C-4820-92BF-C05EE2C304C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "489347F4-E405-4633-83C3-6C68E9D11540"
+    }
+  ],
+  "name": "Sidebar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

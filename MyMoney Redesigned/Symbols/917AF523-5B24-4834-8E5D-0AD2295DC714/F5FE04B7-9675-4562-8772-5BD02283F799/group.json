@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5FE04B7-9675-4562-8772-5BD02283F799",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE35E146-F642-4D53-90FE-E27DCFB1BE5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0B26A26-1F1B-4FA9-9597-0FBBF76AE026",
+    "height": 149,
+    "width": 294,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AC9BA567-7124-43FA-9505-DD1A551195A5"
+    },
+    {
+      "class": "text",
+      "id": "02CFE473-7CB4-4B38-944E-EB2622CDCCE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A289254-96A1-43B3-954E-51BF918DD91F"
+    },
+    {
+      "class": "text",
+      "id": "6C272CF1-A2F3-4323-B17F-8EB1F4F4EF04"
+    }
+  ],
+  "name": "UI/Card/Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E5715C7-BEFA-4B1D-BB8D-843537242206",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

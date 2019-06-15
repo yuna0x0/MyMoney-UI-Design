@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D0E2ACA-7F7F-47C1-B0B6-FA6600DA633E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 206,
+    "width": 180,
+    "x": 0,
+    "y": 500
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE2758E5-079F-4D2D-AAA7-7C33EB82CCAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A636D5F-E4B5-4A00-A19E-6F78D7ED8002"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EE9C329-028D-44F7-B063-A14CB3168A8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30150198-DACD-4DCA-97A2-1465064F49EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "984A2297-EA1B-41FF-A0EF-A926BFBA4F88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE2A23F9-1621-4008-BC0B-7836A469C77B"
+    },
+    {
+      "class": "text",
+      "id": "7C1BEFD5-924E-45F2-AE61-EF9F667C9AFB"
+    }
+  ],
+  "name": "Checkboxes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

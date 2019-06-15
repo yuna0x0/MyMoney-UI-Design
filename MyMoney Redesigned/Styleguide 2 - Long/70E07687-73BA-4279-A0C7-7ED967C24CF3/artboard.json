@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9842421343537415,
+    "green": 0.9793988162210147,
+    "red": 0.972941058710712
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "70E07687-73BA-4279-A0C7-7ED967C24CF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 5580,
+    "width": 1390,
+    "x": -566,
+    "y": -2004
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2FD0C1F4-4666-478C-A2A6-491319E17023"
+    },
+    {
+      "class": "group",
+      "id": "2EFA6FFF-2EB7-4F6A-8E9E-81167AEB5B30"
+    },
+    {
+      "class": "group",
+      "id": "F0726EE3-FE01-4A79-9FFD-98E5A5A6BBE6"
+    },
+    {
+      "class": "group",
+      "id": "5E5E97E7-BD12-49EB-B35C-04DD28FD40E6"
+    },
+    {
+      "class": "group",
+      "id": "ADF525B5-66E5-4C92-99AD-A29A89A9FA95"
+    },
+    {
+      "class": "group",
+      "id": "2D129654-E936-44FA-8097-03EBD50DDDF5"
+    },
+    {
+      "class": "group",
+      "id": "D1E972D4-AD04-4728-B775-BE8DAA16B81A"
+    },
+    {
+      "class": "group",
+      "id": "17DEC195-DF79-405E-BA0A-3625E92E1608"
+    }
+  ],
+  "name": "Styleguide 2 - Long",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

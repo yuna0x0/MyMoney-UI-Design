@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F979D3E-3E29-4B33-A5D0-03C5BB7B381E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 160,
+    "x": 0,
+    "y": 28
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A101410F-A5B5-4248-833F-A24FD2F53AEA_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22000BD1-E15B-473B-81FA-4E5D80200442_symbolID",
+      "value": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF1CB716-2499-47DA-B2F1-609C8058B4ED_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF1CB716-2499-47DA-B2F1-609C8058B4ED/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Apr 4, 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B6547D3B-49E9-42F7-8624-0DAAC8204035/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "C3903B39-5BB0-4EA4-8779-97A06C425DDD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "45046CAE-5883-4E90-AAF9-29EEFB72D1CB_symbolID",
+      "value": "DE7B7406-C23C-4B0F-8000-7445933DBDE6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1675840E-3AAC-4336-9A5C-12ED0DAC2494_symbolID",
+      "value": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F935C856-9613-4821-8554-48BC792AD8F0_stringValue",
+      "value": "4th of May"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6F55F99A-5E81-45C1-A0F3-103B0FA80B1F",
+  "verticalSpacing": 0
+}

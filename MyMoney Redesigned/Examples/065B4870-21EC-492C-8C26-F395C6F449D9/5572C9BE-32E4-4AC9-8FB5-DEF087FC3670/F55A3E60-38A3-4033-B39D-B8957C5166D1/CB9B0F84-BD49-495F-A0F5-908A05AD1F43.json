@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB9B0F84-BD49-495F-A0F5-908A05AD1F43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61196F0B-26CF-4740-8212-DC362E6D1C53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EB461CD-F84A-44E6-929D-BEBA73872051",
+    "height": 54,
+    "width": 168,
+    "x": 42,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Medium/Left with Icon Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DBD41A9-0BCB-41DD-99E2-E2EED9914B84",
+      "overrideName": "7B7ACB12-CFD4-4A4B-A7A1-1B1069B28092_stringValue",
+      "value": "Dropdown"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "95B38CFC-E51E-44FE-9E8E-82C7C4226DED",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FE1EB1E0-58E1-4E32-A8B9-3FAE00FDD918",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC94EFF0-AF16-4F66-BF9E-9F41C517173B",
+  "verticalSpacing": 0
+}

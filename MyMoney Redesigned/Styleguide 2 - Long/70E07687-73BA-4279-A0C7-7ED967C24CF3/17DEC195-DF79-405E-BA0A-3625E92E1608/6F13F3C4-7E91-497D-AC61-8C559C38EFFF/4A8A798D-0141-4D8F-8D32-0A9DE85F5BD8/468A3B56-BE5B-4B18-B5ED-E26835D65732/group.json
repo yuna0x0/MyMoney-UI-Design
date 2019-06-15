@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "468A3B56-BE5B-4B18-B5ED-E26835D65732",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E646065A-A00B-45C5-A725-B05A32109CBE"
+    },
+    {
+      "class": "rectangle",
+      "id": "494A5D12-26AA-4E9B-9C47-ABC9FC17CAB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "955C93CB-56EA-4B26-BE38-8CB0B8253B89"
+    },
+    {
+      "class": "rectangle",
+      "id": "C8511047-69BA-47BC-9619-93CCE2725663"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04246FAF-B9C9-47AE-8877-5CD2AC5C33BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "B3343A16-277D-44D1-BAC5-AEFC8890A61C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBB98B8F-D34C-4D57-99B4-E7C5D8BA7475"
+    },
+    {
+      "class": "rectangle",
+      "id": "24670C49-FF52-4632-B407-5FF38F898ED8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FADD8744-75B4-4D27-A68E-66A217FA61C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "77496E39-627D-4935-A66A-FEAC8FE3643B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87E74CC4-647A-4A38-9191-A06E34A60116"
+    },
+    {
+      "class": "rectangle",
+      "id": "26124A15-1691-4E66-964A-76CBFC897E6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B27674FC-F257-471F-ADFF-893C2CA9D6FD"
+    }
+  ],
+  "name": "Main Colour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

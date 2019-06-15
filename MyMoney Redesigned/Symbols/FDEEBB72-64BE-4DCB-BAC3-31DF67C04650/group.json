@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FDEEBB72-64BE-4DCB-BAC3-31DF67C04650",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 331,
+    "width": 630,
+    "x": -1112,
+    "y": 135
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E64C0069-D30C-43FD-BCD0-773283A4A15F"
+    },
+    {
+      "class": "text",
+      "id": "17EEC2F6-37BA-4B45-8906-3370719D9C42"
+    },
+    {
+      "class": "text",
+      "id": "F05822A7-AD2C-48EA-A6EC-F1836B35E1EC"
+    },
+    {
+      "class": "text",
+      "id": "5C273654-30EF-4EF6-8C5F-93A375B40E22"
+    }
+  ],
+  "name": "Step 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A557ED6B-2142-4A68-9209-6AB062384F6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 96,
+    "x": 640,
+    "y": 37
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B4A49538-5A46-4E6E-9415-90DF8ABE31F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B821880B-9E02-498F-8EDE-7AAB01E1B822"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6BB580A-BCB0-41AC-9E8B-487A9A097C8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FF8BFD1-8B61-4D86-89C1-3CA26FEF240D"
+    }
+  ],
+  "name": "Blue Buttons with Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

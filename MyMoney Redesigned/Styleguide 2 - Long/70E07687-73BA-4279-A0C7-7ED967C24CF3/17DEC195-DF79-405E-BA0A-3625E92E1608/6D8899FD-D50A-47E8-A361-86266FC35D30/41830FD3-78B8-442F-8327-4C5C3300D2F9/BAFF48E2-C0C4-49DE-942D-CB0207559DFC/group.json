@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAFF48E2-C0C4-49DE-942D-CB0207559DFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F0B4CD42-125C-404D-8CB8-258765357488"
+    },
+    {
+      "class": "rectangle",
+      "id": "7A1A62E6-4E0D-48E4-BD3C-7F0F996171BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37E33624-F99B-4F5B-8AA7-BC29BA0DACBC"
+    },
+    {
+      "class": "rectangle",
+      "id": "6849D212-E001-4CDF-8602-565611233EA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "602936E4-8A61-419C-A53E-8C60A0EA1752"
+    },
+    {
+      "class": "rectangle",
+      "id": "A5641D0C-4647-467E-A58E-91DCA12E34E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3707F611-FF48-4A66-9D87-C6A0008CAD18"
+    },
+    {
+      "class": "rectangle",
+      "id": "407DDCEC-DFAE-4937-8B53-96E3D8E9619C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF1B0452-B7A7-42A6-9CBC-E1C78241D16B"
+    },
+    {
+      "class": "rectangle",
+      "id": "406DD7D8-0F6A-44AE-80AF-7E29A6A1EE6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA485C12-F7AE-4949-9450-43C0D66DBEEF"
+    },
+    {
+      "class": "rectangle",
+      "id": "D53C4297-B485-47C2-96F3-EA11CAB770FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DF7F6B9-CC1F-42A8-820F-6C5D7032ADC8"
+    }
+  ],
+  "name": "Main Colour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

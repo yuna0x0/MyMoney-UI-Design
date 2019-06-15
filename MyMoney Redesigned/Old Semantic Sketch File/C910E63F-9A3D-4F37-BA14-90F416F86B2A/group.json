@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C910E63F-9A3D-4F37-BA14-90F416F86B2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 116,
+    "x": -2410,
+    "y": -627.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6DAB2AA3-64B6-430B-81F5-A0F9B5BCDDF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "A5E78746-CF88-4FBF-8414-4B0BABE2621C"
+    },
+    {
+      "class": "text",
+      "id": "70ABA9CB-D5BB-4314-A165-600C3420F2D7"
+    },
+    {
+      "class": "text",
+      "id": "D19DD4EC-9F41-4BBE-A9DD-BFBD6C192E62"
+    }
+  ],
+  "name": "ui floating dropdown icon button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

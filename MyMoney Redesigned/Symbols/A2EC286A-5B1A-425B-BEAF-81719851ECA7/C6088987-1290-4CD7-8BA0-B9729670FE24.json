@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6088987-1290-4CD7-8BA0-B9729670FE24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 98,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Container/Custom (Your Setup)/Right Only Outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "98ABF077-A2BC-45BB-AEB4-95F859809632_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6304F3FD-4180-4DE4-9A31-E13B6E5B64E8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32563D7F-3BF6-4E6E-9944-9F0A74A8BB2F",
+      "overrideName": "A9628C04-FA5C-4C3C-AA85-5E508B53E8E4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DECEBF0-5628-4459-BB39-EFE8FC8BBABB",
+      "overrideName": "1FA8E389-8381-49AE-9828-729C15B16513_symbolID",
+      "value": "2C399A91-67D0-42C5-AE4B-60ACD52D7950"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "53678E01-8710-424D-8254-E5EEF88C2C9B",
+  "verticalSpacing": 0
+}

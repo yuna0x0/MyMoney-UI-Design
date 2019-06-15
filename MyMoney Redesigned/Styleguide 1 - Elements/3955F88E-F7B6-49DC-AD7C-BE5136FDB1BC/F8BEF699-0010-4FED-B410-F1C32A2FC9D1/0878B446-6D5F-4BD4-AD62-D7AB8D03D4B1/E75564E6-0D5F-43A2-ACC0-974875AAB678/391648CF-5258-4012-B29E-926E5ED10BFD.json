@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "391648CF-5258-4012-B29E-926E5ED10BFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 245,
+    "x": 0,
+    "y": 74
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown Item",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8806C4C4-B2CB-4D7E-A03D-F0F16158F3A7/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Johnny Ferguson"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFBAD421-3FE9-4111-8586-8D9C7873CD33/34EE7FCB-75DB-40F9-A25A-FEB31DF09FCD/4657D986-5A42-492D-9C7E-D460C7F04527_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFBAD421-3FE9-4111-8586-8D9C7873CD33/7D0C5498-2A9C-4DB9-A949-8F633381287F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE0981A7-DA05-4F3B-B378-342D9AD8176D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/88b925d4fec6a0f68387c03a20c6ad6bac68465f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED_stringValue",
+      "value": "First"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F0961EC-D355-4ABF-A986-2DE66DE2C704/FE0981A7-DA05-4F3B-B378-342D9AD8176D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/612928c3bc5f07068428c9aaf360267a506e5f5b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB360250-DE85-479E-A263-7A3DFBD141A7",
+      "overrideName": "F7EC3ED4-711C-48E8-B763-1366AE9734C6_stringValue",
+      "value": "Sophie Shelton"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B1CEEB4-F8D1-4AFF-92CE-05CE33240104",
+      "overrideName": "D274D268-94E9-4DC7-8006-09A7E9EEF819_stringValue",
+      "value": "Sophie Shelton"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8FFEDA4-C593-474A-B29A-3974A0758653",
+  "verticalSpacing": 0
+}

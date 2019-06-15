@@ -1,0 +1,122 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8580ADC-0AB5-4EE8-B709-4804452364BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -331,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A1D13E71-7252-4BE4-9C59-E476CA05E4C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6015F237-D41B-4283-8FF4-CD89A66A04EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A060816-A35E-4ACA-94CA-7240CB4900BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D18D73AA-B8F7-4B8C-8853-FE67A98A6349"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5E878C6-043C-4A07-8412-30F67787DD19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83C439B6-BE78-4708-B7CA-EEBC4BCBE6B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACDD81F9-09E7-4DF9-9251-B9A434090107"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4956CF0-B686-4324-AFDD-A16C9E4C5667"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7E8EE10-23F5-4E24-98B9-6CA5B3DB331F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FDC573B-49F6-49B9-A00D-8C8512097CE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D1B854A-165C-4D2A-BB35-7B3D6BD7C0F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C4DC2D6-C9FB-46DC-91FF-4A81E488D8C6"
+    },
+    {
+      "class": "artboard",
+      "id": "C32E39F2-505C-4E8C-9C37-C52A11CE5C6B"
+    },
+    {
+      "class": "artboard",
+      "id": "065B4870-21EC-492C-8C26-F395C6F449D9"
+    },
+    {
+      "class": "artboard",
+      "id": "15F95112-259E-4697-9287-929E859E277E"
+    }
+  ],
+  "name": "Examples",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -240,
+    "guides": [
+    ]
+  }
+}

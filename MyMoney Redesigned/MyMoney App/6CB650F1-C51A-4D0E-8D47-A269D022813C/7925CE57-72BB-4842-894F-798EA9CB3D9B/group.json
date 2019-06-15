@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7925CE57-72BB-4842-894F-798EA9CB3D9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 693
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6A56C1E1-B36F-467A-8E80-94402288380A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA3C0561-8A02-4F9A-8666-2701F50B6B38"
+    },
+    {
+      "class": "text",
+      "id": "C607B7B7-D1AF-46B0-AADA-FFA558F028D0"
+    },
+    {
+      "class": "text",
+      "id": "BD1E2EF4-9022-4937-9D78-BC03009C7567"
+    },
+    {
+      "class": "text",
+      "id": "21BBA983-B10C-42CD-A097-38C0E90CF92A"
+    }
+  ],
+  "name": "Tab Bars",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

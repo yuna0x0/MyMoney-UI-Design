@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACDD81F9-09E7-4DF9-9251-B9A434090107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4209E905-65CC-4A76-8F67-95A7E90C6F57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7153DB8-9834-45D8-9772-D7930FB29CDB",
+    "height": 36,
+    "width": 41,
+    "x": 380,
+    "y": -72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Medium/Left with Icon Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E7BB0957-EC23-48D0-9B6B-F473F81FBF63_symbolID",
+      "value": "5983E28B-38FD-4774-9980-C48BFCC76206"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E7BB0957-EC23-48D0-9B6B-F473F81FBF63/CAD33D9B-1EC4-4B44-BD1B-91BD3C9BFAC3_symbolID",
+      "value": "1C84892F-3CAF-429C-B8C4-66614CA09882"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD3C9BEF-5992-4C8B-B08D-8CAFC76C76D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8C02866-FDDB-4DA8-9945-5B89494D58C4",
+  "verticalSpacing": 0
+}

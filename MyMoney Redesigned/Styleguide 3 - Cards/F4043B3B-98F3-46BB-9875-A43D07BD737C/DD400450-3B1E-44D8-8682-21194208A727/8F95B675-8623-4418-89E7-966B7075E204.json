@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F95B675-8623-4418-89E7-966B7075E204",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 245,
+    "x": 640,
+    "y": 260
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Textarea",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28_symbolID",
+      "value": "D123D528-7E30-4348-B9BF-405300630590"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A9EA9C32-1C0B-4D2E-A6EE-3BD7E66325CC_symbolID",
+      "value": "AA10A1D0-3462-4A19-A4EE-BA639FE675DD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "809F68DB-43C3-407E-B0EF-B90785F9F0D9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "809F68DB-43C3-407E-B0EF-B90785F9F0D9/617BB779-DAE9-419C-AAA5-FB08AE3BEB5F_symbolID",
+      "value": "2C399A91-67D0-42C5-AE4B-60ACD52D7950"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "809F68DB-43C3-407E-B0EF-B90785F9F0D9/B772270D-EC5F-4175-AEE6-42A1CB8840C4_symbolID",
+      "value": "87EE9A77-F91F-4A55-8590-4AFC6D6DB209"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB190D6D-BB8C-4691-A749-E8F7810472DD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E0FF4C3-EAF7-44C5-9433-186121CB7A1A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E03A12EA-D030-4A54-B561-BBA997A7BC3A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0761E4D2-E9CF-4A79-823E-B45885C29E74/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "1C84892F-3CAF-429C-B8C4-66614CA09882"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0761E4D2-E9CF-4A79-823E-B45885C29E74/AB14E862-66FD-4B37-946E-F683E40624EB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51999382-07EF-48FA-B44A-12F101FECE59_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51999382-07EF-48FA-B44A-12F101FECE59/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "The textarea tag defines a \nmulti-line text input control."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "32E7B41A-CECD-4580-B592-14E6F0746DE9_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "995127C5-193A-4F12-A63D-5C8F6988C39D_symbolID",
+      "value": "3C765B06-53DE-4A70-8A9E-2DCFB001D8C6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5B93E39-1C23-4A4A-AFF1-740DA1ABFF1B",
+  "verticalSpacing": 0
+}

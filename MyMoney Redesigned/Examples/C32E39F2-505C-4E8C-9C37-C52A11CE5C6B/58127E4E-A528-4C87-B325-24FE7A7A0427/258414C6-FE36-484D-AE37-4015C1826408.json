@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "258414C6-FE36-484D-AE37-4015C1826408",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61BA3111-39C8-4584-AA03-3D0B3ECE71BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "617F76E7-AFF7-4160-B3E3-27391CDCB6AB",
+    "height": 54,
+    "width": 155,
+    "x": 39,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Medium/Left with Icon Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DBD41A9-0BCB-41DD-99E2-E2EED9914B84",
+      "overrideName": "7B7ACB12-CFD4-4A4B-A7A1-1B1069B28092_stringValue",
+      "value": "Select user"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6593051E-D940-4A4F-A8FD-33E76B5FBF64",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5F12CEF1-C585-4767-9210-4D5DEF3797BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC94EFF0-AF16-4F66-BF9E-9F41C517173B",
+  "verticalSpacing": 0
+}

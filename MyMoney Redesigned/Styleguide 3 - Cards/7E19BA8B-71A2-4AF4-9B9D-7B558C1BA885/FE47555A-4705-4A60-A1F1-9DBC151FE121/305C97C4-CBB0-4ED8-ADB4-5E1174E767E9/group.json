@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "305C97C4-CBB0-4ED8-ADB4-5E1174E767E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 197,
+    "width": 276,
+    "x": 0,
+    "y": 612
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA8F39AD-11E9-4B1A-A541-CC1ED51C277A"
+    },
+    {
+      "class": "group",
+      "id": "567A527B-A6B3-423F-838C-0646AED3E1D1"
+    },
+    {
+      "class": "group",
+      "id": "E6993711-FC31-404F-AF8E-1AB579534283"
+    },
+    {
+      "class": "group",
+      "id": "85D3FA78-D6E6-4181-9459-DA841FB8562F"
+    },
+    {
+      "class": "text",
+      "id": "FB1B0888-1EE9-478B-823B-FDF817F8B54E"
+    }
+  ],
+  "name": "Simple Dropdown & Breadcrumb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

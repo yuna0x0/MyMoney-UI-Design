@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D7FD9C9-6649-4008-9BF8-FE1376A35EBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 69,
+    "x": 80,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C43F6DEE-CDD4-4D07-B172-2BE5D6C679E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC30C7F5-5A0E-4CE7-8289-3335ABC7EEC5"
+    },
+    {
+      "class": "text",
+      "id": "FB8264FC-5471-4BB9-98B0-EF4E1AF181EF"
+    },
+    {
+      "class": "text",
+      "id": "C01D0E4F-05AC-490B-90F2-A51387B344CF"
+    }
+  ],
+  "name": "Orange",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3367C19-C5CA-4E83-91A8-46C07A3862F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 286,
+    "width": 250,
+    "x": 580,
+    "y": 27
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "93742A90-B455-425D-9969-84C188B28EAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "648F44DD-7FD6-44B4-AB87-FA55C68C10DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C53E6371-DDB0-4E96-8676-B2AECE89A55F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28E495BA-4632-40C7-87FC-81415BA1DA95"
+    }
+  ],
+  "name": "Selects Special",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

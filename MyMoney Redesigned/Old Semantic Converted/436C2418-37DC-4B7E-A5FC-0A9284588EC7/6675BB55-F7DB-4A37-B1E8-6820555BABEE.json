@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6675BB55-F7DB-4A37-B1E8-6820555BABEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 116,
+    "x": 310,
+    "y": 1666
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Default/Medium/With Right Icon Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "90792991-0204-4FFB-B0F1-3B38F87739D1_stringValue",
+      "value": "Combo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4734AE2-1957-4FF5-8031-D60D6964FE7C",
+      "overrideName": "F0CD90F8-96D4-4D67-A8BE-1FD1CA8C68E4/B6CD6479-DEB0-41EC-BD35-5233B26C8E9D/09558D9F-2686-46AA-BF40-A3C62B2E3A8B_symbolID",
+      "value": "B3E2EBDE-7A7C-4FB1-8CF2-CF3F78EE0235"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1DFC028A-932B-4942-BB7F-D6F497A464C2",
+  "verticalSpacing": 0
+}

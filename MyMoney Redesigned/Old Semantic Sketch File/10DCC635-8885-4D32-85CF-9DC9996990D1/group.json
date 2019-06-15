@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "10DCC635-8885-4D32-85CF-9DC9996990D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 185,
+    "width": 666,
+    "x": -2238,
+    "y": 1381.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "18277021-7D58-4B94-918C-B3D747C1221D"
+    },
+    {
+      "class": "rectangle",
+      "id": "7CDE208E-30E1-4D96-81D7-145E8ECB3951"
+    },
+    {
+      "class": "text",
+      "id": "02C74191-E6BA-40E6-86D7-3151FF27EFA1"
+    },
+    {
+      "class": "text",
+      "id": "FFA43047-0FD0-46EB-BF7F-AE7D25825FCA"
+    },
+    {
+      "class": "rectangle",
+      "id": "BEDD5972-510A-44E3-A8E5-68E12E0E3493"
+    },
+    {
+      "class": "text",
+      "id": "9AD4E487-5927-45F7-B933-C88BF3DFFB1F"
+    },
+    {
+      "class": "text",
+      "id": "1B80FDDC-FC29-469A-9E09-81E8CC99B36F"
+    },
+    {
+      "class": "text",
+      "id": "16A209C9-DE92-4267-8C79-211AD5A2CB21"
+    },
+    {
+      "class": "rectangle",
+      "id": "91BBF664-7DC1-4416-82A1-B5B072B90E62"
+    },
+    {
+      "class": "text",
+      "id": "9CEEDF92-BADF-4A91-AFAC-492D91A4BCDE"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1BBD210-9629-4035-A5D5-15B170D174F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1CDB6D6-8B93-40A1-889F-4FC647442121"
+    },
+    {
+      "class": "rectangle",
+      "id": "591F853B-2188-4B6F-AA45-0534C810850F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CB6D41DB-60CB-40CF-8F1C-F98BC0EF27BF"
+    },
+    {
+      "class": "text",
+      "id": "AA107C89-91D6-41AE-BCD3-1EDBB04A973A"
+    },
+    {
+      "class": "text",
+      "id": "265C5A60-8F54-4303-91BD-FF7DE981FE85"
+    }
+  ],
+  "name": "ui two column middle aligned very relaxed stackable grid",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

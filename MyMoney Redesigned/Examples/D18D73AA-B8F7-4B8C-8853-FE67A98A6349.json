@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D18D73AA-B8F7-4B8C-8853-FE67A98A6349",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A42C0455-E09A-4FE1-AFFF-EA108252D9D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "549E1444-0255-4732-A20D-921D3AF6A552",
+    "height": 36,
+    "width": 76,
+    "x": 406,
+    "y": -72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Medium/Left with Icon Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9B3B1DB-725D-4F4E-81D3-C0288CDA513D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC94EFF0-AF16-4F66-BF9E-9F41C517173B",
+  "verticalSpacing": 0
+}

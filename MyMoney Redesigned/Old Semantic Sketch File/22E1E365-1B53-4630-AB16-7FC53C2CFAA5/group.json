@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "22E1E365-1B53-4630-AB16-7FC53C2CFAA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 80,
+    "x": -1601,
+    "y": -771.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E0200738-9A8C-46B9-8421-24155E42E9B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "14F52CB5-E930-4CEC-A43A-AF29A9C5DA3D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2915E512-C108-4900-9025-FED16E9C24E4"
+    },
+    {
+      "class": "text",
+      "id": "C6447CA4-0B51-4FC7-877A-FA3550B5AD54"
+    },
+    {
+      "class": "text",
+      "id": "F0BDF546-702B-40FC-B15A-4F1745734192"
+    },
+    {
+      "class": "text",
+      "id": "27E391F7-E9BC-4DF2-8D9E-A95B2BD9AD56"
+    }
+  ],
+  "name": "ui vertical basic buttons",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

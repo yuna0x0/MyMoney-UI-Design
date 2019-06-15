@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "467E6F78-0BB3-4A08-BBFA-7E850F639314",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 46,
+    "x": 0,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A3400162-20B4-42B6-8092-8A264C252213_symbolID",
+      "value": "B1B5DBBE-6B42-4F8B-868E-B12D10CAB2BF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "410F5543-D1A5-48C3-A21E-FA3E5123C848_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECFFBD24-ED3B-4C2C-A671-43442E9E8661",
+      "overrideName": "B1E8F5A1-77A7-4ADA-8D68-D879DB88817C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CDBBB9C-90EF-48E0-8015-87D9B6C82C2F",
+      "overrideName": "FBF83154-3791-4552-8659-5F3F4EDE1961_symbolID",
+      "value": "2C399A91-67D0-42C5-AE4B-60ACD52D7950"
+    }
+  ],
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56339BA6-A0F5-4FB8-830E-70EAE5E060EB",
+  "verticalSpacing": 0
+}

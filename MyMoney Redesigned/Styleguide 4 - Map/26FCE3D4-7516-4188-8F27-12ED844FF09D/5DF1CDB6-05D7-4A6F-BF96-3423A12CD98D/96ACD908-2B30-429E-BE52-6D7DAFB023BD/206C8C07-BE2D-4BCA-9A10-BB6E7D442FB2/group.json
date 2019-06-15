@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "206C8C07-BE2D-4BCA-9A10-BB6E7D442FB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 86,
+    "x": 512,
+    "y": 37
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "35D925ED-BC57-4263-8C00-AA2E382345D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "361CFE4F-B2B6-48F6-AC71-6780B3F2CDE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D4974C1-FF38-4B3A-9211-13050601EFBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CDA1A2F-0DA8-4F48-86AF-B1FD534F1DB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2876EBA5-2300-4E79-B457-D25BBFD38E82"
+    }
+  ],
+  "name": "Red Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

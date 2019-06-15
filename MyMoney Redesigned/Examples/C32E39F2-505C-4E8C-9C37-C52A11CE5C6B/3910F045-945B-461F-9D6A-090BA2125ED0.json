@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3910F045-945B-461F-9D6A-090BA2125ED0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABC1F4AE-7233-4145-978B-29F457A4A5EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE1C697B-0544-4080-86D4-DA58A2DC32BC",
+    "height": 453,
+    "width": 292,
+    "x": 1518,
+    "y": 181
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Card/Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F9754E3-D8C0-4CFC-8FEC-070747947F8A",
+      "overrideName": "505BF17E-BF93-446B-BE2B-920EFAD7C6AD/02961F3A-25D5-4B08-AAA1-ABF1EA15C24D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/22486e6c323cdf1faaef1fef65cd2e7a01d5dc2f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E58530B-7884-4B38-815C-E1F0C3D7565D",
+      "overrideName": "5FB07BD5-B340-4122-9783-9A9192447086_stringValue",
+      "value": "Matt Giampietro"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A27BD02-8999-40EB-A2F7-10338B9C901B",
+      "overrideName": "FC0A331C-2CBD-46CF-A497-F3BBD265D092_stringValue",
+      "value": "Friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98890F09-7AF1-43E3-B7BA-C09EFF691338",
+      "overrideName": "EDC231BB-7560-405E-A84E-A5863EFD94F2_stringValue",
+      "value": "Matthew is an interior designer living in New York."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA81B813-8E09-47A2-B068-0F4E9ECA2AA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FEA063F4-68CE-4645-A34C-F39BF0780328",
+  "verticalSpacing": 0
+}

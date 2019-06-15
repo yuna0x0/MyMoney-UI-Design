@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F204B44A-697D-42B3-87BC-8B2CFEA4E54B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 279,
+    "x": 19,
+    "y": 274
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Medium/With Left Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E596553-7029-48AD-9820-E62263CF4563",
+      "overrideName": "6411D2B6-E8A7-4C89-8043-6A4BD9951CD6_symbolID",
+      "value": "F069DFE6-117A-4664-8279-F63035D25306"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE669FFD-11DA-4F81-88A5-49EF9C301940",
+      "overrideName": "DB0F4F8D-827D-4D53-9790-17831F1CAE59_stringValue",
+      "value": "Create your account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3EBD48BE-5C08-426D-9DC6-AAB2FBC10157",
+  "verticalSpacing": 0
+}

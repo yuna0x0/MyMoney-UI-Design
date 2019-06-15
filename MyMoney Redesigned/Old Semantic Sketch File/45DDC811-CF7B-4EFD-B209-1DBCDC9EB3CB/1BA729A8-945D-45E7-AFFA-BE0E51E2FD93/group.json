@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BA729A8-945D-45E7-AFFA-BE0E51E2FD93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 69,
+    "x": 800,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BC312EAE-C20F-4AF8-AB17-6664F8463A93"
+    },
+    {
+      "class": "rectangle",
+      "id": "E6A23B93-9168-4A37-9746-2FEB5B5E70CD"
+    },
+    {
+      "class": "text",
+      "id": "08578E34-7CB7-4897-954B-5D6AEA9D12C3"
+    },
+    {
+      "class": "text",
+      "id": "70C3358E-9BD5-40D0-975E-8DB3EB5683C1"
+    }
+  ],
+  "name": "Brown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

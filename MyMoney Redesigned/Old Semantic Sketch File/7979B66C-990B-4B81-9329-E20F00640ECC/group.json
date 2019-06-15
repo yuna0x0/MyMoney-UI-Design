@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7979B66C-990B-4B81-9329-E20F00640ECC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 389,
+    "width": 292,
+    "x": 718,
+    "y": -1632.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9395FFA8-A8A9-43C1-848F-2BF656CCDBA9"
+    },
+    {
+      "class": "rectangle",
+      "id": "B9CE5991-E292-4AA7-B884-984AD027E099"
+    },
+    {
+      "class": "text",
+      "id": "651DD6EB-3013-4902-9661-253535924A08"
+    },
+    {
+      "class": "shapePath",
+      "id": "E517AE4C-EE53-4878-88D2-93A108BE8CD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D090EB82-B5E9-4B62-9C47-D7A285CD3C3A"
+    },
+    {
+      "class": "text",
+      "id": "B75E8AF2-9CFB-47CE-91A7-9A8EF282EB82"
+    },
+    {
+      "class": "text",
+      "id": "ACBA35C6-8C7B-47E8-9B47-5E05096B7A63"
+    },
+    {
+      "class": "text",
+      "id": "D7A238BB-646E-4953-8B2B-B0EBB308CC01"
+    },
+    {
+      "class": "text",
+      "id": "C80456EC-7464-4DC6-A9C4-4D333E8C94F3"
+    },
+    {
+      "class": "oval",
+      "id": "26766D08-9F6D-4B21-BDE6-08761955D747"
+    },
+    {
+      "class": "text",
+      "id": "F260A6D9-AFF2-489D-A460-A31FD1B8B115"
+    },
+    {
+      "class": "text",
+      "id": "0F5F8DB9-05BD-4399-A28C-8E12959CAA9E"
+    },
+    {
+      "class": "text",
+      "id": "7593DB5F-47C8-4DC4-BA8E-98256D1A9852"
+    },
+    {
+      "class": "text",
+      "id": "5C48FF1B-B467-4FE6-95C5-7500AE126286"
+    },
+    {
+      "class": "text",
+      "id": "6151F299-4F87-40C8-B856-7EB3E386695F"
+    }
+  ],
+  "name": "ui card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

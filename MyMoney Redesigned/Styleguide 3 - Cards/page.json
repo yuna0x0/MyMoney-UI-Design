@@ -1,0 +1,114 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "074EDD44-2D9E-485B-9B5D-55AEE550AF5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -346,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A5278BF7-E1C2-42CF-99D2-A41B13B55338"
+    },
+    {
+      "class": "artboard",
+      "id": "32987396-482A-43C4-8CD1-09CF1FD61A03"
+    },
+    {
+      "class": "artboard",
+      "id": "679F6572-C36D-44EF-A0F2-0FB260EBF644"
+    },
+    {
+      "class": "artboard",
+      "id": "7E19BA8B-71A2-4AF4-9B9D-7B558C1BA885"
+    },
+    {
+      "class": "artboard",
+      "id": "23C307D5-CF1E-4488-B633-CCE296C8C1E6"
+    },
+    {
+      "class": "artboard",
+      "id": "8A2E193E-182B-4724-BB82-DEAF00667F72"
+    },
+    {
+      "class": "artboard",
+      "id": "BFC6867E-2B5D-40BB-9FF6-096BDA0EA6EF"
+    },
+    {
+      "class": "artboard",
+      "id": "F01F27F6-0978-4633-8284-C459CE95BD11"
+    },
+    {
+      "class": "artboard",
+      "id": "F4043B3B-98F3-46BB-9875-A43D07BD737C"
+    },
+    {
+      "class": "artboard",
+      "id": "8BA1F259-0D5F-4332-AED3-F2965E73C40D"
+    },
+    {
+      "class": "artboard",
+      "id": "A0C66868-AB0C-4559-8541-E5ACB45EC97D"
+    },
+    {
+      "class": "artboard",
+      "id": "1938A110-89F0-4443-A7B3-C6058CF60577"
+    },
+    {
+      "class": "artboard",
+      "id": "1A08E98C-C2EC-44AB-82EE-7E1334FA29A4"
+    }
+  ],
+  "name": "Styleguide 3 - Cards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -208,
+    "guides": [
+    ]
+  }
+}

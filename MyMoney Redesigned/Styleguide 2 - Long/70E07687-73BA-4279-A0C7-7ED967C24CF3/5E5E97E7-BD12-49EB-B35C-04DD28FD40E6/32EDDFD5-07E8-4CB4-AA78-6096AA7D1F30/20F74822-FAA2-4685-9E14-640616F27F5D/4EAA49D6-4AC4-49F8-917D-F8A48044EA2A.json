@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4EAA49D6-4AC4-49F8-917D-F8A48044EA2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 103,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Previous Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DFD2E40B-45C9-4841-B4DC-ABCD2D527AE7_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DFD2E40B-45C9-4841-B4DC-ABCD2D527AE7/4D9F448A-71CC-4120-B3F7-24BE78153A9A_stringValue",
+      "value": "Older"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DFD2E40B-45C9-4841-B4DC-ABCD2D527AE7/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Older"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A8AA683-034B-48CB-BF33-BFE7940B7EB6/AB14E862-66FD-4B37-946E-F683E40624EB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A8AA683-034B-48CB-BF33-BFE7940B7EB6/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "1C84892F-3CAF-429C-B8C4-66614CA09882"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4B2EBB6-C615-4696-A64C-3B99862C0D2E_symbolID",
+      "value": "BAC16473-1387-451E-A1D7-975FAC5CE013"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4687C0A4-35A6-4F4D-8661-40F3DF997955",
+  "verticalSpacing": 0
+}

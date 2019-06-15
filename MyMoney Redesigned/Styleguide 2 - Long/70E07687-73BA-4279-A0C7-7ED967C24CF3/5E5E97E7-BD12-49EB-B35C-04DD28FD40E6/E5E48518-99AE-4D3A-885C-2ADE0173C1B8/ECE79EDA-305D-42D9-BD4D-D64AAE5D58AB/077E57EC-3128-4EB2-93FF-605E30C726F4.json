@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "077E57EC-3128-4EB2-93FF-605E30C726F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 80,
+    "x": 196,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Active",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7D57E353-E764-4DDA-9A3A-703A649AC1D8/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Step 3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D1F802CE-AFBC-4464-9EBA-D4B5D2C6E28E_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "60DD258B-A4F9-4B90-9C21-3178A35ED2B2/A3400162-20B4-42B6-8092-8A264C252213_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA0156D6-37BB-4BD9-B786-22E4BF2F5107",
+  "verticalSpacing": 0
+}

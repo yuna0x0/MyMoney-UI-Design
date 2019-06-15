@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A375F6C6-E926-441E-A0FA-CB05EC2DCD1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 960,
+    "x": 318,
+    "y": 235.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2734A8F0-98AB-41FC-A8EB-E56967A31BC7"
+    },
+    {
+      "class": "text",
+      "id": "70A405BD-8160-41C2-B280-2502F8925CE9"
+    },
+    {
+      "class": "text",
+      "id": "74234CF8-F936-4194-BA02-DCC717720A30"
+    },
+    {
+      "class": "text",
+      "id": "7FD97230-8CFC-43B0-B57A-ABBD259968A8"
+    }
+  ],
+  "name": "ui success message",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

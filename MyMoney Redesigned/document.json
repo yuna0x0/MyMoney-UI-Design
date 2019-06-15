@@ -1,0 +1,1272 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.16078431372549,
+          "green": 0.1254901960784314,
+          "red": 0.8
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1725490196078432,
+          "green": 0.4431372549019607,
+          "red": 0.9411764705882353
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1803921568627452,
+          "green": 0.7372549019607844,
+          "red": 0.9764705882352941
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.192156862745098,
+          "green": 0.792156862745098,
+          "red": 0.7098039215686275
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2941176470588235,
+          "green": 0.7215686274509804,
+          "red": 0.1764705882352942
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6745098039215688,
+          "green": 0.7098039215686275,
+          "red": 0.1098039215686274
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.803921568627451,
+          "green": 0.5294117647058824,
+          "red": 0.1607843137254902
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7764705882352941,
+          "green": 0.2352941176470588,
+          "red": 0.3921568627450983
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7725490196078432,
+          "green": 0.2313725490196078,
+          "red": 0.6352941176470589
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.588235294117647,
+          "green": 0.2431372549019608,
+          "red": 0.8705882352941177
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2627450980392158,
+          "green": 0.403921568627451,
+          "red": 0.6431372549019608
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4627450980392157,
+          "green": 0.4627450980392157,
+          "red": 0.4627450980392157
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1137254901960784,
+          "green": 0.1098039215686274,
+          "red": 0.1058823529411765
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5568627450980392,
+          "green": 0.5529411764705883,
+          "red": 0.5529411764705883
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.16078431372549,
+        "green": 0.1254901960784314,
+        "red": 0.8
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1725490196078432,
+        "green": 0.4431372549019607,
+        "red": 0.9411764705882353
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1803921568627452,
+        "green": 0.7372549019607844,
+        "red": 0.9764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.192156862745098,
+        "green": 0.792156862745098,
+        "red": 0.7098039215686275
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2941176470588235,
+        "green": 0.7215686274509804,
+        "red": 0.1764705882352942
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6745098039215688,
+        "green": 0.7098039215686275,
+        "red": 0.1098039215686274
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.5294117647058824,
+        "red": 0.1607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7764705882352941,
+        "green": 0.2352941176470588,
+        "red": 0.3921568627450983
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7725490196078432,
+        "green": 0.2313725490196078,
+        "red": 0.6352941176470589
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.588235294117647,
+        "green": 0.2431372549019608,
+        "red": 0.8705882352941177
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2627450980392158,
+        "green": 0.403921568627451,
+        "red": 0.6431372549019608
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1137254901960784,
+        "green": 0.1098039215686274,
+        "red": 0.1058823529411765
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5568627450980392,
+        "green": 0.5529411764705883,
+        "red": 0.5529411764705883
+      }
+    ],
+    "gradientAssets": [
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.50000000000000022, -2.2204460492503131e-16}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.6313725490196079,
+                "red": 0.1803921568627452
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9176470588235294,
+                "green": 0.5647058823529413,
+                "red": 0.09803921568627447
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.49999999999999922, 0.98485331632653028}"
+        }
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.49999999999999989, 0.97783801020408156}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9215686274509803,
+                "green": 0.5686274509803922,
+                "red": 0.09803921568627455
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.6313725490196076,
+                "red": 0.1764705882352942
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 0.015590529499427297}"
+        }
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0.13364955357142858}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 0.6745098039215689,
+                "red": 0
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 1,
+                "green": 0.6745098039215689,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        }
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.50000000000000022, -2.2204460492503131e-16}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.6313725490196079,
+                "red": 0.1803921568627452
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9176470588235294,
+                "green": 0.5647058823529413,
+                "red": 0.09803921568627447
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.49999999999999922, 0.98485331632653028}"
+        }
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.50000000000000022, -2.2204460492503131e-16}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9725490196078431,
+              "green": 0.6313725490196079,
+              "red": 0.1803921568627452
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9176470588235294,
+              "green": 0.5647058823529413,
+              "red": 0.09803921568627447
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.49999999999999922, 0.98485331632653028}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.49999999999999989, 0.97783801020408156}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9215686274509803,
+              "green": 0.5686274509803922,
+              "red": 0.09803921568627455
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9725490196078431,
+              "green": 0.6313725490196076,
+              "red": 0.1764705882352942
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 0.015590529499427297}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0.13364955357142858}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 1,
+              "green": 0.6745098039215689,
+              "red": 0
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0,
+              "blue": 1,
+              "green": 0.6745098039215689,
+              "red": 0
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.50000000000000022, -2.2204460492503131e-16}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9725490196078431,
+              "green": 0.6313725490196079,
+              "red": 0.1803921568627452
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9176470588235294,
+              "green": 0.5647058823529413,
+              "red": 0.09803921568627447
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.49999999999999922, 0.98485331632653028}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "allowsOverrides": true,
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.3529411764705882
+        },
+        "booleanOperation": -1,
+        "changeIdentifier": 358,
+        "clippingMaskMode": 0,
+        "do_objectID": "1673F123-F5BF-43D2-BD60-E8878B4E48DD",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 812,
+          "width": 375,
+          "x": -2130,
+          "y": 4868
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 1,
+        "layers": [
+          {
+            "_class": "bitmap",
+            "booleanOperation": -1,
+            "clippingMask": "{{0, 0}, {1, 1}}",
+            "clippingMaskMode": 0,
+            "do_objectID": "75E3AEF6-E476-4333-89E1-7C7CF615688C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fillReplacesImage": false,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "height": 866.6666666666667,
+              "width": 440,
+              "x": -33,
+              "y": -27
+            },
+            "hasClippingMask": false,
+            "image": {
+              "_class": "MSJSONFileReference",
+              "_ref": "images/dfef3bc24b09fdc7b02ecc9bad477a8954f3434a.png",
+              "_ref_class": "MSImageData"
+            },
+            "intendedDPI": 72,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "iPhoneXS - Space Gray",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "Device Bezels / iPhoneXS - Space Gray",
+        "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "75E3AEF6-E476-4333-89E1-7C7CF615688C_image"
+          }
+        ],
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "8C4DE0A2-35AB-44B1-A36B-725AA41C03A7",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "allowsOverrides": true,
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.3529411764705882
+        },
+        "booleanOperation": -1,
+        "changeIdentifier": 358,
+        "clippingMaskMode": 0,
+        "do_objectID": "1673F123-F5BF-43D2-BD60-E8878B4E48DD",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 812,
+          "width": 375,
+          "x": -2130,
+          "y": 4868
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 1,
+        "layers": [
+          {
+            "_class": "bitmap",
+            "booleanOperation": -1,
+            "clippingMask": "{{0, 0}, {1, 1}}",
+            "clippingMaskMode": 0,
+            "do_objectID": "75E3AEF6-E476-4333-89E1-7C7CF615688C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fillReplacesImage": false,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "height": 866.6666666666667,
+              "width": 440,
+              "x": -33,
+              "y": -27
+            },
+            "hasClippingMask": false,
+            "image": {
+              "_class": "MSJSONFileReference",
+              "_ref": "images/dfef3bc24b09fdc7b02ecc9bad477a8954f3434a.png",
+              "_ref_class": "MSImageData"
+            },
+            "intendedDPI": 72,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "iPhoneXS - Space Gray",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "Device Bezels / iPhoneXS - Space Gray",
+        "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "75E3AEF6-E476-4333-89E1-7C7CF615688C_image"
+          }
+        ],
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "83BADE2A-F11E-43BC-A840-A266438BBCFA",
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "allowsOverrides": true,
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "do_objectID": "96CA57D2-B611-4E9B-B543-6843F3DF9117",
+          "green": 1,
+          "red": 1
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 2383,
+        "clippingMaskMode": 0,
+        "do_objectID": "FE875BFD-2537-49D5-BF63-D91F4BB6BCB6",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "15CDF79D-CE5A-4876-B8BF-27AC58B7DF61",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "8003D573-F82C-4EC1-9BF0-E3BC941C89F5",
+          "height": 21,
+          "width": 209,
+          "x": 1940,
+          "y": 6808
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "9AD31113-6AB6-44A0-8486-83852414292A",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 1,
+        "layers": [
+          {
+            "_class": "rectangle",
+            "booleanOperation": -1,
+            "clippingMaskMode": 0,
+            "do_objectID": "AB08389B-2DC2-44FF-8A00-3D1192EEDDE8",
+            "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "CF85E225-D061-4EAE-BD54-75EEB6722118",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fixedRadius": 100,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "do_objectID": "60BA790E-A284-4CA7-B6C5-C12AFCFF1D24",
+              "height": 5,
+              "width": 209,
+              "x": 0,
+              "y": 8
+            },
+            "hasClippingMask": false,
+            "hasConvertedToNewRoundCorners": true,
+            "isClosed": true,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "name": "Home Indicator",
+            "nameIsFixed": true,
+            "pointRadiusBehaviour": 1,
+            "points": [
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{0, 0}",
+                "curveMode": 1,
+                "curveTo": "{0, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{1, 0}",
+                "curveMode": 1,
+                "curveTo": "{1, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{1, 1}",
+                "curveMode": 1,
+                "curveTo": "{1, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 1}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{0, 1}",
+                "curveMode": 1,
+                "curveTo": "{0, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 1}"
+              }
+            ],
+            "resizingConstraint": 34,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "do_objectID": "6CAAA6EB-34D2-4067-A532-5126AF31161D",
+              "endMarkerType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0,
+                    "green": 0,
+                    "red": 0
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "Bars / Home Indicator / iPhone / Light - Landscape",
+        "nameIsFixed": true,
+        "overrideProperties": [
+        ],
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "547A57D2-5FC1-4639-B359-75601BDAD6E5",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "CB409B0E-ABE3-4693-BC37-D7D6076ABD02",
+        "userInfo": {
+          "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {
+            }
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "0346F3A4-A69F-4B97-A6B3-5861BA2B34C2",
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "allowsOverrides": true,
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "do_objectID": "96CA57D2-B611-4E9B-B543-6843F3DF9117",
+          "green": 1,
+          "red": 1
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 2383,
+        "clippingMaskMode": 0,
+        "do_objectID": "FE875BFD-2537-49D5-BF63-D91F4BB6BCB6",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "15CDF79D-CE5A-4876-B8BF-27AC58B7DF61",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "8003D573-F82C-4EC1-9BF0-E3BC941C89F5",
+          "height": 21,
+          "width": 209,
+          "x": 1940,
+          "y": 6808
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "9AD31113-6AB6-44A0-8486-83852414292A",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 1,
+        "layers": [
+          {
+            "_class": "rectangle",
+            "booleanOperation": -1,
+            "clippingMaskMode": 0,
+            "do_objectID": "AB08389B-2DC2-44FF-8A00-3D1192EEDDE8",
+            "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "CF85E225-D061-4EAE-BD54-75EEB6722118",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "fixedRadius": 100,
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "do_objectID": "60BA790E-A284-4CA7-B6C5-C12AFCFF1D24",
+              "height": 5,
+              "width": 209,
+              "x": 0,
+              "y": 8
+            },
+            "hasClippingMask": false,
+            "hasConvertedToNewRoundCorners": true,
+            "isClosed": true,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "name": "Home Indicator",
+            "nameIsFixed": true,
+            "pointRadiusBehaviour": 1,
+            "points": [
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{0, 0}",
+                "curveMode": 1,
+                "curveTo": "{0, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{1, 0}",
+                "curveMode": 1,
+                "curveTo": "{1, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{1, 1}",
+                "curveMode": 1,
+                "curveTo": "{1, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 1}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 100,
+                "curveFrom": "{0, 1}",
+                "curveMode": 1,
+                "curveTo": "{0, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 1}"
+              }
+            ],
+            "resizingConstraint": 34,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "do_objectID": "6CAAA6EB-34D2-4067-A532-5126AF31161D",
+              "endMarkerType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0,
+                    "green": 0,
+                    "red": 0
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "Bars / Home Indicator / iPhone / Light - Landscape",
+        "nameIsFixed": true,
+        "overrideProperties": [
+        ],
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "547A57D2-5FC1-4639-B359-75601BDAD6E5",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "13102F6C-9140-4FD3-8C93-FDE19BB31386",
+        "userInfo": {
+          "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {
+            }
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "0346F3A4-A69F-4B97-A6B3-5861BA2B34C2",
+          "guides": [
+          ]
+        }
+      },
+      "symbolPrivate": false
+    }
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "55.2",
+    "build": 78181,
+    "version": 119
+  },
+  "pages": [
+    "MyMoney App",
+    "MyMoney Component",
+    "Symbols",
+    "Examples",
+    "Old Semantic Sketch File",
+    "Old Semantic Converted",
+    "Styleguide 1 - Elements",
+    "Styleguide 2 - Long",
+    "Styleguide 3 - Cards",
+    "Styleguide 4 - Map"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4522,
+  "clippingMaskMode": 0,
+  "do_objectID": "154CC53A-0122-430B-AC93-89101A5D13F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 598,
+    "y": 808
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D46DF12E-BE85-4F66-9EB0-CC6B48ABC427"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4871C27-696F-4731-A87C-D4E706EF01FE"
+    },
+    {
+      "class": "rectangle",
+      "id": "27296ED5-A4F0-4185-9A33-4C5A3F9DCD13"
+    },
+    {
+      "class": "rectangle",
+      "id": "4BC24D73-D78F-43B7-92CE-A2B78BD8E3A3"
+    },
+    {
+      "class": "rectangle",
+      "id": "5F3FE58B-4FC3-41C5-A88B-BD94615DC4AB"
+    },
+    {
+      "class": "rectangle",
+      "id": "95C41CF0-CC8E-4CCA-B18F-367210309221"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB56E118-CBF5-41EE-B891-6106D3122DFC"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A276A79-6192-487F-99F7-FE630DFF66DD"
+    }
+  ],
+  "name": "Icon/Loading (Grey)",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7B7C8F79-EE7D-4516-96BD-ABA0BACF8B21",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

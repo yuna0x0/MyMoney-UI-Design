@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "048D7C9F-0F9C-4D81-8012-2DBAAF0213EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 520,
+    "x": 0,
+    "y": 129
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification - Warning",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5AD4BBEA-AAB5-4F86-8333-A5A5FD7DAA1F/4D9F448A-71CC-4120-B3F7-24BE78153A9A_stringValue",
+      "value": "Warning. Loading of this page taking a way too long."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65781F19-A299-484A-A023-903886D923C9_stringValue",
+      "value": "Warning. Loading of this page taking a way too long."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D49891C8-F8A9-44B2-A1F8-90F9E36C0CF7_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F63C582-FE48-44DF-BB1A-0F76814258C0",
+  "verticalSpacing": 0
+}

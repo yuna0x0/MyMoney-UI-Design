@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "09FC76AF-E6DB-4E33-9ACF-975A9B734B83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 132,
+    "x": 651,
+    "y": 1281
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Default/Medium/Default Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "926D58CC-3B6A-438B-B317-83A4E5188A38_stringValue",
+      "value": "Add Friend"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B644ADB7-752C-4118-8ADB-7E1AFF8BE936_symbolID",
+      "value": "8595494E-F69C-4A7D-884B-63E51C17B5D3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B644ADB7-752C-4118-8ADB-7E1AFF8BE936/C4D2D257-93E4-4793-9B18-54A803CED63D_symbolID",
+      "value": "79ECCD6E-B5CF-441E-B034-1D0429EC1AB3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F287277-CDDA-4C2F-9058-D31959BF20AC",
+  "verticalSpacing": 0
+}

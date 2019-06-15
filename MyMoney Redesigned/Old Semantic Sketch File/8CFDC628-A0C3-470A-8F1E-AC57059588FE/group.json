@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CFDC628-A0C3-470A-8F1E-AC57059588FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 97,
+    "x": -707,
+    "y": -1422.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B31432BB-4C1C-47E0-9FF7-513427A31542"
+    },
+    {
+      "class": "shapePath",
+      "id": "522DF149-62A2-43EA-9F20-A4EF89B21F0D"
+    },
+    {
+      "class": "text",
+      "id": "0DE535C7-D3A0-473B-9CCD-A2FEA4BFB4DB"
+    },
+    {
+      "class": "text",
+      "id": "8D5BE945-1FB6-46CE-A60D-4EC41BCCBDC8"
+    }
+  ],
+  "name": "ui black ribbon label",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

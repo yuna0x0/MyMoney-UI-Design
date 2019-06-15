@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A82097A8-8110-4E10-8ACB-DCCDC7635B64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 276,
+    "x": 0,
+    "y": 81
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C577808F-7E5B-476D-A698-43855C9EE354"
+    },
+    {
+      "class": "group",
+      "id": "D9B7C053-A78C-453F-9E3E-6E66AD046A88"
+    },
+    {
+      "class": "group",
+      "id": "CA8DD362-396D-477F-A4E7-0E154FF0F9B3"
+    },
+    {
+      "class": "group",
+      "id": "4AEA49D2-4EF5-4A0C-919C-8F72301DC2BD"
+    },
+    {
+      "class": "group",
+      "id": "69CB737E-2A1E-4DB4-B2AE-A3C7E75E55D0"
+    },
+    {
+      "class": "group",
+      "id": "8758618D-EB3C-4EA5-A279-0DC9A68E36F4"
+    },
+    {
+      "class": "group",
+      "id": "290C1C6A-6156-49A7-B41A-2A6ECB75C4C5"
+    }
+  ],
+  "name": "Social Icons Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

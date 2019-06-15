@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E396F161-DE12-4BF3-A7D9-379413CBCAC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 201,
+    "x": -1981,
+    "y": 482.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "72B71150-EB56-4720-BE8D-2BF8326C1B46"
+    },
+    {
+      "class": "rectangle",
+      "id": "D42BE96D-E4D4-4B62-88E1-8E14ED1BFDD1"
+    },
+    {
+      "class": "text",
+      "id": "DC21155B-3A9A-4F2C-A425-476D700C84A1"
+    },
+    {
+      "class": "text",
+      "id": "F61CA4EB-E324-4E40-820F-47EE0B8B248E"
+    }
+  ],
+  "name": "ui corner labeled input",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

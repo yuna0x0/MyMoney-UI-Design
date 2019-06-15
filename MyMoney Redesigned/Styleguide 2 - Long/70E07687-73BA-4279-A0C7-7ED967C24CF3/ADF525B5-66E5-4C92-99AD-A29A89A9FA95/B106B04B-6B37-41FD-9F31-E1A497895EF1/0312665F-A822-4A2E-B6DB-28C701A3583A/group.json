@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0312665F-A822-4A2E-B6DB-28C701A3583A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 421,
+    "width": 570,
+    "x": 0,
+    "y": 34
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BD26EC94-5CD8-4CB6-955A-3C9DE4701625"
+    },
+    {
+      "class": "group",
+      "id": "41BBD9EF-D4D3-42E5-92F6-AC16980FCDE1"
+    },
+    {
+      "class": "group",
+      "id": "50B73055-79EE-4DB5-ACCD-3F79A588D7B9"
+    },
+    {
+      "class": "group",
+      "id": "F21C11EB-08DE-4497-AEC9-A32BBB3BFDE8"
+    }
+  ],
+  "name": "Dropdowns",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

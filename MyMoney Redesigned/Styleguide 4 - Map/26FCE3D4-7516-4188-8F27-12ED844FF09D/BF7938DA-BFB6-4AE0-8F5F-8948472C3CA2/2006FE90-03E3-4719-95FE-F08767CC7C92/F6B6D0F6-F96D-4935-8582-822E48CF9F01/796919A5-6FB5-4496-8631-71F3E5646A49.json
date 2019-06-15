@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "796919A5-6FB5-4496-8631-71F3E5646A49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 520,
+    "x": 0,
+    "y": 37
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification - Success",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FBC3579B-8D81-499B-B2F3-3899E7F5D77D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E3473BB-4FE0-4EA5-AFD8-688D646BFC87_stringValue",
+      "value": "Success! This is positive notification."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DD20388B-F381-41D6-AE28-5395F4B794C5/4D9F448A-71CC-4120-B3F7-24BE78153A9A_stringValue",
+      "value": "Success! This is positive notification."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0440518B-1BD3-4755-8956-66B49EBED67A",
+  "verticalSpacing": 0
+}

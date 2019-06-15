@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6CB680C3-E543-4336-8A3E-3BDDE3536068",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DC427AC1-684B-4E4B-B326-3556524440D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "48A2A1C0-CADD-4DE7-A29C-32159981E42B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2BE7CBB-D1A2-4A63-A248-7E432AF9EF3C"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C3A79F5-8978-454B-89BB-72CEBB4DE9BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B04AF151-CCF4-4EAE-8C9D-CCAC2595D8DF"
+    },
+    {
+      "class": "rectangle",
+      "id": "469013EC-F2E7-4E93-9188-8A1E2751C486"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10F1BE45-BC0C-4D33-A01C-3A33C66F527E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B921EAF7-0420-4637-972A-73E222B10984"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DF34EF6-DFB4-4415-855B-1B7C58114E72"
+    },
+    {
+      "class": "rectangle",
+      "id": "FA05CA92-DCD2-4885-BF92-55AF4CF27941"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AA85B6A-AA19-4593-9C5F-2FEAFA04B76C"
+    },
+    {
+      "class": "rectangle",
+      "id": "0FB6EA27-9424-43DF-8372-7404988A604C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FED901C6-EBAD-44CF-9B7C-79DA0D2F61E3"
+    }
+  ],
+  "name": "Main Colour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

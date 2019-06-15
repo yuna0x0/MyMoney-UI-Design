@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC72601F-E245-49F9-BD36-351EB9321DC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DA013AC-1FDA-4A75-8C69-B75191180A13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E367E55-BFBE-469B-8D75-64CE0DF4956A",
+    "height": 26,
+    "width": 179,
+    "x": 1471,
+    "y": 1117
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tooltip/Simple Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "846E8859-FF5D-4FAE-80E1-722E6A61F3F5",
+      "overrideName": "EECC2A69-DEA7-4965-BA4C-D40BC0E9756E_stringValue",
+      "value": "Must be 6 characters or more"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "906E0296-0BA4-4A51-90F0-DE001314A541",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5B999B2-711A-4F96-976D-D56CACDBB88A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA6871F6-FF86-40ED-8675-477983EA01A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 43,
+    "x": 173,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab - Inactive",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "77FE204B-5BA8-4F09-B7EB-1CBD751150C6_stringValue",
+      "value": "Tab 3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "67808769-53BF-41AE-A086-2C3634956347/B5000F62-B36B-4FB5-A8BA-7DC2C2D102E1_stringValue",
+      "value": "Tab 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B356821-71F0-4946-BE96-EF1A44E415BC",
+      "overrideName": "69EDD04B-5B2B-473A-A6DF-1DD6AA1DF9B8_stringValue",
+      "value": "Tab 3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50211F3A-D36E-480D-A8E9-E7F04BDDAA29",
+  "verticalSpacing": 0
+}

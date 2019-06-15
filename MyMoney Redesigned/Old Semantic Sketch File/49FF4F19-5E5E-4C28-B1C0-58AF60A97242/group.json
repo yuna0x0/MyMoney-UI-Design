@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "49FF4F19-5E5E-4C28-B1C0-58AF60A97242",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 203,
+    "x": -1758,
+    "y": 557.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "100F99C1-D20F-40FF-94F1-F5F737F0133C"
+    },
+    {
+      "class": "text",
+      "id": "CDC726F2-EE87-434B-A9F0-388A5219F14C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B316DFF6-3619-4636-8452-92C7A4B7EFF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4FAE4A7-7F0C-4DB2-B463-6CAEED9035CD"
+    }
+  ],
+  "name": "ui icon input loading",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

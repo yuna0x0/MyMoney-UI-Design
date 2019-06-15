@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F99D379-347D-49DB-8602-DB6EF45980D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 114,
+    "x": 777,
+    "y": 37
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D07A97EB-2BFD-4A3C-AA75-D1E60F57124C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "537FAF91-8816-4285-A073-174B6F7828E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CEFCF83-C622-4B5B-B085-D0AB553DF3FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7AAC23F-EB89-4B3C-AD99-27D175992B8E"
+    }
+  ],
+  "name": "Red Buttons with Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

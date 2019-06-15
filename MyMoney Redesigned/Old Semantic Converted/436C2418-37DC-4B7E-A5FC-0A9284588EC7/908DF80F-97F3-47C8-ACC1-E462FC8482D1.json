@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "908DF80F-97F3-47C8-ACC1-E462FC8482D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "590CFF5D-0BE4-4F4A-A8A7-F8F9CE5E568D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FEB0CB8-8E4D-4EB9-B595-04FFE3D7D1AD",
+    "height": 255,
+    "width": 469,
+    "x": 3360,
+    "y": 268
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Card/Group Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AE14267-B65E-404C-84B3-5C1C333A88BE",
+      "overrideName": "80E72347-9EF4-4726-95A3-A2365BFC8F64_stringValue",
+      "value": "Cute dogs come in a variety of shapes and sizes. Some cute dogs are cute for their adorable faces, others for their tiny stature, and even others for their massive size.\n\nMany people also have their own barometers for what makes a cute dog."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28B9A406-1150-4506-A886-D97E1032DCDF",
+      "overrideName": "C903A36D-D359-4D81-AA1D-558B114AF984_stringValue",
+      "value": "Cute Dog"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C450E091-31BE-4E6C-9BE6-0F9440E80B5A",
+      "overrideName": "702CFD0D-94D5-4D13-9532-D94D975C3BF8_symbolID",
+      "value": "E8B25296-6B46-4D76-AFBA-30D331B5A663"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6B1CA2D-017D-40A3-AC96-6D35991ED9F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3627162B-9443-4D25-9F05-5029EC941DB6",
+  "verticalSpacing": 0
+}

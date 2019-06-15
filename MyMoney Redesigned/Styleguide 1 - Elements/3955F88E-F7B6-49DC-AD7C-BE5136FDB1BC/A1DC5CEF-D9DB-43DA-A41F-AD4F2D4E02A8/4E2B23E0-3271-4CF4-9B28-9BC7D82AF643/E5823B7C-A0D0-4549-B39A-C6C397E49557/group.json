@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5823B7C-A0D0-4549-B39A-C6C397E49557",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 114,
+    "x": 902,
+    "y": 42
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "456A7C7F-4526-4E67-B48B-6A975C419343"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EE630B5-F71A-4355-9B56-958C723C555A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBB30FDC-2FED-4F0F-B759-28CF01A4A95D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "418FF7CE-BD9B-44EA-88B2-8D6DFBD89E6F"
+    }
+  ],
+  "name": "Green Buttons with Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC318C5C-198C-4D5C-8334-2C9BCC410E6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 171,
+    "width": 150,
+    "x": 120,
+    "y": 80
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "04CB344E-88B4-4769-9666-A6532D056B31"
+    },
+    {
+      "class": "text",
+      "id": "5D746283-6361-4820-A9EE-5CAF3552161B"
+    },
+    {
+      "class": "text",
+      "id": "F686E24C-7296-4533-9888-9FD305E2AC16"
+    },
+    {
+      "class": "rectangle",
+      "id": "8C38EBD0-DC03-450D-8CC0-C46B6FD8DCCA"
+    }
+  ],
+  "name": "Typography Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

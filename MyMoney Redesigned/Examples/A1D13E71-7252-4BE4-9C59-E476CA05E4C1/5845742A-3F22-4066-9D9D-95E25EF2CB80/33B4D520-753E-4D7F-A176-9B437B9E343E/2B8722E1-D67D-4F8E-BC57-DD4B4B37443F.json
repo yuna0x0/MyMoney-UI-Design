@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B8722E1-D67D-4F8E-BC57-DD4B4B37443F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 279,
+    "x": 18,
+    "y": 173
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/With Left Icon Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "094ADDC6-5D5E-4CCF-9A7C-1E409984CEC7_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EC218481-46F5-4D73-B6E7-DE7ABE50C940_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6650FAC9-DAE6-4163-B268-3CC28E2EAD53_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA182D1C-F4AF-48A7-A82D-DCD3EF2D94FA_symbolID",
+      "value": "CBD9FF96-13C3-42C0-8943-F8DA9DBA327D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1CE7FABC-12B7-474B-ADC7-0551DFDEEDA4",
+  "verticalSpacing": 0
+}

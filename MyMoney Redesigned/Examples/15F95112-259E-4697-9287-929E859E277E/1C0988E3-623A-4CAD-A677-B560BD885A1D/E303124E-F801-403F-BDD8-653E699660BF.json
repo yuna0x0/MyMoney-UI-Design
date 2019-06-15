@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E303124E-F801-403F-BDD8-653E699660BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68895FE5-1D09-4FA2-B146-2A83D6A164FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95D1F191-3A71-4D2E-821A-888438FC91B9",
+    "height": 37,
+    "width": 67,
+    "x": 225,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Default/Medium/With Right Icon Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8DB3EC4B-C5ED-419B-9CFE-B6D986B67F29_stringValue",
+      "value": "Search"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D8EFEEC0-A208-4010-A86E-BFD37BF57A38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D8EFEEC0-A208-4010-A86E-BFD37BF57A38/E4AC6029-710A-4DA7-AF86-A1DEE336BA37_symbolID",
+      "value": "1C84892F-3CAF-429C-B8C4-66614CA09882"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66B6EF12-0959-44B5-9C1D-58639ECB3B36",
+      "overrideName": "FB4D66C9-7B32-48AE-B663-4A30D6D81C37/09558D9F-2686-46AA-BF40-A3C62B2E3A8B_symbolID",
+      "value": "87EE9A77-F91F-4A55-8590-4AFC6D6DB209"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8BE1C8B-396B-43B6-A62D-DEF498012C36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75BE813F-D1B7-4C88-9C44-459897FEBE66",
+  "verticalSpacing": 0
+}

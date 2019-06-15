@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8549CC70-D4B5-48F0-8698-18ADFD718BFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8BC7FBE4-4D97-4E01-97F2-720B095DAC02"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6AC0365-BCD2-4334-9622-D179ABAF0D3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97EBEBB4-28BF-4A94-BFF1-B628BDEF31EA"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A53A099-BC21-4563-B2E9-27BEB8A94710"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEAE24E4-601A-4C15-A099-CC2A60678264"
+    },
+    {
+      "class": "rectangle",
+      "id": "DDF474BA-6B26-4E42-8CA4-BC920D443593"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEA0A581-5177-4B24-8797-8C601D6269CD"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CBD9BE0-3C63-4EA1-B418-38E37D4BC9D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05173226-BC55-401B-80E9-2F59F801C7FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "E7809A7C-B0B5-4BAD-BCBB-54F906767791"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DA27876-FF17-4131-8CC8-17716568D4FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA19D11F-FCA6-411D-BAEC-E25FAC053AEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9896B8E0-F79D-4064-B155-6CD28DBC3699"
+    }
+  ],
+  "name": "Main Colour",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

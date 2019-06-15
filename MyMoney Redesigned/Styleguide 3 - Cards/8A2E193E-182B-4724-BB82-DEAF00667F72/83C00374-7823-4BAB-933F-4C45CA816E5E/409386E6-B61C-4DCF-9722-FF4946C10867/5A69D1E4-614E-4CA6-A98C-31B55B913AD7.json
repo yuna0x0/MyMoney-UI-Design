@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A69D1E4-614E-4CA6-A98C-31B55B913AD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 250,
+    "x": 0,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown Item - Active",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB7FF6B3-CF06-42E4-A9E2-9772E084DD9B/B4CBBF02-3E3D-4F67-AF5D-D306A84E0CD7_stringValue",
+      "value": "Second"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4699B371-F40D-4B1E-9B21-8DF46E155380/4657D986-5A42-492D-9C7E-D460C7F04527_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80E1ECAD-7632-4FC1-9046-E9BD0D0A7C82_stringValue",
+      "value": "Second"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC1DCF4B-E950-4A02-B8AB-B778C867358D",
+  "verticalSpacing": 0
+}

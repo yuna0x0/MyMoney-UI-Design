@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0348199-3681-403C-BA44-1A88A66E97D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 209,
+    "width": 452,
+    "x": -1075,
+    "y": 3547
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BCA4A538-FAB6-4646-B5C0-52940F77A536"
+    },
+    {
+      "class": "text",
+      "id": "86D66224-E5C0-45E9-90C4-61A4A2F4EDA0"
+    },
+    {
+      "class": "group",
+      "id": "B0ECAD0B-AE50-470A-ACE1-66670E06A465"
+    },
+    {
+      "class": "group",
+      "id": "E9856C08-9EC8-494E-A453-CB62BA6C5E20"
+    }
+  ],
+  "name": "Cheers!",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

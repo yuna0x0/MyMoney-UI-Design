@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC90FBFA-9E0E-480A-BDB3-8494B1A8E8AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 1126,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FBDBC98E-06D7-46D0-AF67-F572B9243088"
+    },
+    {
+      "class": "shapePath",
+      "id": "4465EB3E-970F-4ADF-8177-F522F74467FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6D2E541-D741-43DB-A415-DE7EAC0E038A"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C33F484-869E-4136-9F9A-6E2501D07B15"
+    },
+    {
+      "class": "shapePath",
+      "id": "81798A4D-85D5-4AED-B69B-CBFB2F6FA492"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9DFD3CE-911E-4FA3-9689-40832D746F80"
+    },
+    {
+      "class": "text",
+      "id": "BED2816F-05DF-44D3-8DB1-7FA171B19E5E"
+    },
+    {
+      "class": "rectangle",
+      "id": "E112BDC3-17EB-4A5D-A49A-27A0ADF9382B"
+    },
+    {
+      "class": "text",
+      "id": "22556517-6351-46A4-839E-47CDB679508E"
+    },
+    {
+      "class": "text",
+      "id": "3C54A557-A342-4BA6-B18D-6F0E66FBAC83"
+    },
+    {
+      "class": "text",
+      "id": "036043FD-D32C-47CB-9E57-3C728A0FE335"
+    },
+    {
+      "class": "text",
+      "id": "7A7E04D3-BAF6-4B91-AD24-9C98F43BA736"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6801830-6C8B-4622-AD16-ED8B7407988C"
+    },
+    {
+      "class": "text",
+      "id": "E047162F-CE14-4EF9-99C7-34253C145562"
+    },
+    {
+      "class": "group",
+      "id": "18E623B9-B0EA-456D-9475-AC352E4F7B89"
+    }
+  ],
+  "name": "Group Copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

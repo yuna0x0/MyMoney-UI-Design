@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE7D2C25-4E0F-4F0B-AF60-EA63E455D569",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 520,
+    "x": 0,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification - Status",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6354C914-21AB-429E-9331-B0988CC6527D/4D9F448A-71CC-4120-B3F7-24BE78153A9A_stringValue",
+      "value": "All servers are now running smoothly again! Thanks."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF87C791-5BC5-4195-AD81-DCFA3B0D08B5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AFF36D5E-94CB-4CBA-8F7D-ECE89824872F_stringValue",
+      "value": "All servers are now running smoothly again! Thanks."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7065FA40-D234-4A09-8663-3EEC5AF31E12",
+  "verticalSpacing": 0
+}

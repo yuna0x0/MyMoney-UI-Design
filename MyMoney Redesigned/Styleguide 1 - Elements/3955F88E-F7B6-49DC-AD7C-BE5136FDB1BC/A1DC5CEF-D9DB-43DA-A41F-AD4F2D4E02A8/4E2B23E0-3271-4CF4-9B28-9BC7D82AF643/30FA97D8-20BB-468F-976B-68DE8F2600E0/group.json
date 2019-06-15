@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "30FA97D8-20BB-468F-976B-68DE8F2600E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 86,
+    "x": 576,
+    "y": 42
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0ACBE187-9001-46D7-8CD8-4BC047C43319"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E001B63-53C8-499B-A72D-FF5F3B42B933"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AB04610-006F-4CDD-9C29-28B552918BE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4D258EF-205A-4FB1-B3DE-ACABE4011B4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29F6C656-1249-4AFB-968B-AA0EDC689D72"
+    }
+  ],
+  "name": "Orange Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

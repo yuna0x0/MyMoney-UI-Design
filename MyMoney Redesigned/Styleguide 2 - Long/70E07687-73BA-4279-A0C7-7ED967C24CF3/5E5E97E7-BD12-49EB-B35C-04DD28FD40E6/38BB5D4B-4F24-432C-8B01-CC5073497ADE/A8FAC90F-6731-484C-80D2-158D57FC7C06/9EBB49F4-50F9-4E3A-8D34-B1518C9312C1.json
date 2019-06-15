@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9EBB49F4-50F9-4E3A-8D34-B1518C9312C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 106,
+    "width": 142,
+    "x": 112,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tooltip - Dark Big",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B545411-0EB6-4C6D-9462-485E7BCC86EE/49CCA10C-60F1-400C-BC6E-D364ABF129BD_stringValue",
+      "value": "David Denman, Sutton Johnston, Boden Johnston"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B545411-0EB6-4C6D-9462-485E7BCC86EE/1958B332-8F54-4362-B8AF-D760424892B4_symbolID",
+      "value": "FD34C924-2E68-460C-93A5-ECCBB2CBA0B5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B545411-0EB6-4C6D-9462-485E7BCC86EE/06826B7B-5194-44A1-BA16-F7A7C7A7AE6E/36ED94EA-C769-4220-B7D5-1A7AD5D65FCF_stringValue",
+      "value": "This tooltip can\nbe enlarged to\nany size you want!"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B545411-0EB6-4C6D-9462-485E7BCC86EE/23D18B77-C7A4-4ADF-8AAB-C7B10E4A3AAA/36ED94EA-C769-4220-B7D5-1A7AD5D65FCF_stringValue",
+      "value": "This tooltip can\nhave an unlimited\namount of text!"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B545411-0EB6-4C6D-9462-485E7BCC86EE/29404149-55DB-4E4F-BE64-11832A05B42A_symbolID",
+      "value": "FD34C924-2E68-460C-93A5-ECCBB2CBA0B5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E26298B6-B8A3-46D2-BB67-6AB937B56790",
+  "verticalSpacing": 0
+}

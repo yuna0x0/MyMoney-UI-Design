@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEEDB330-9922-4D41-ADE4-E699C7007AB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 960,
+    "x": 318,
+    "y": 563.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4D0FCACB-02CB-4B45-8FD0-4B833D7AED58"
+    },
+    {
+      "class": "text",
+      "id": "A3A004B7-C80C-404C-81A0-093F150FB6D0"
+    },
+    {
+      "class": "text",
+      "id": "51321600-B31F-4ED4-8828-3AD00ADBC178"
+    },
+    {
+      "class": "text",
+      "id": "3F200B31-2A37-4344-BA2D-BBB2BA25815D"
+    }
+  ],
+  "name": "ui icon message",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0B4E58F-7C49-4D90-B741-FF53669BCBCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "513254A0-0B0A-4541-9876-B358CA0A08EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04D59D25-4D29-48F7-860D-CE8E32B81B0F",
+    "height": 33.34999999999999,
+    "width": 36.8,
+    "x": 20.7,
+    "y": 21.90075757575757
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Icon/Sketch",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.15,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "57BB2F4B-0F30-4EB5-9FB5-B988BE730981",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A7A342C4-36B5-4AA1-99F9-B7DBA020B7F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AE2D1F9-8056-44DC-A9D7-28FC67498557",
+  "verticalSpacing": 0
+}

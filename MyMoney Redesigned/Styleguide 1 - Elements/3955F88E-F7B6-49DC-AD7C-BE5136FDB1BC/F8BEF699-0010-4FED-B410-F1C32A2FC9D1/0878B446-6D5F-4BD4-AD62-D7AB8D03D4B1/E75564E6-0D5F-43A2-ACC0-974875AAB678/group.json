@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E75564E6-0D5F-43A2-ACC0-974875AAB678",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 245,
+    "x": 550,
+    "y": 217
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "40164849-3D18-4609-B24D-3E4CE077D463"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43425A66-B049-4CEB-8A79-920C4A9EC850"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "391648CF-5258-4012-B29E-926E5ED10BFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCC8D2D6-6AAF-46A5-94C5-E97CEB08B746"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19A9575C-0E94-4B67-8754-C4FE75B6FB49"
+    }
+  ],
+  "name": "Dropdown with Avatars",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

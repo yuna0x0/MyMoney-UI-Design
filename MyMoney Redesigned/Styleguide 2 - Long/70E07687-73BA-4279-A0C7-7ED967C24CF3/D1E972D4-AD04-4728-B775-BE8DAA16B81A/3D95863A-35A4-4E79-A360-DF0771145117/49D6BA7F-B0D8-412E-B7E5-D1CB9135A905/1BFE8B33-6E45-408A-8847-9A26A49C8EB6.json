@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BFE8B33-6E45-408A-8847-9A26A49C8EB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 250,
+    "x": 0,
+    "y": 232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Textarea Disabled",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "809F68DB-43C3-407E-B0EF-B90785F9F0D9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8CE64267-EBE9-4971-B860-9AA51939C63C/26F179DB-7D56-4AE6-8C5A-A945C742804D/43276E30-4DC8-4633-8E77-6C876FC376C2_symbolID",
+      "value": "C63A6A28-D8A5-485D-9645-E4331D4D485D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E0FF4C3-EAF7-44C5-9433-186121CB7A1A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E03A12EA-D030-4A54-B561-BBA997A7BC3A/DD29FFA9-2186-4C27-8FDB-968FF457C740_stringValue",
+      "value": "TextArea Label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0761E4D2-E9CF-4A79-823E-B45885C29E74/AB14E862-66FD-4B37-946E-F683E40624EB_symbolID",
+      "value": "12A0F36E-D0FF-404E-9190-16428F3251F5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13ACCA40-18E2-4AAA-815E-B9868964CA22_stringValue",
+      "value": "Everybody good? Plenty of slaves for my robot colony? - Interstellar"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28_symbolID",
+      "value": "E4185CB5-43E8-4106-97DA-376CFFFB2DDD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "The textarea tag defines a \nmulti-line text input control."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C28A41F-2CB0-4DDD-9817-C4CB2F9D60BE",
+  "verticalSpacing": 0
+}

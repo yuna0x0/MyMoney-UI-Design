@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "20AC4756-9659-4EB1-93E4-5BD7C8C77016",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Base + Label & Message",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DE39DF7-027C-4A60-BD48-BCC2A98A4767_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DE39DF7-027C-4A60-BD48-BCC2A98A4767/7105E33A-7034-49DE-AF4F-0C9935A26803_stringValue",
+      "value": "27%"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4BCDD32-A936-4B55-8086-A9D65048B298/DD29FFA9-2186-4C27-8FDB-968FF457C740_stringValue",
+      "value": "Progress"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE55304A-EA97-43D7-A9C3-844427EB30E1_stringValue",
+      "value": "Progress"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "017B2D45-0BCF-451A-8EF3-37B2B654C980_stringValue",
+      "value": "20%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79B2C38D-CA2A-452B-9A3C-4650C02F5C40",
+  "verticalSpacing": 0
+}

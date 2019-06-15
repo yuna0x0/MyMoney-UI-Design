@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D43158E5-8DB8-4D9E-A28D-1A85116571EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 99,
+    "x": -2025,
+    "y": -179.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "06E37551-8461-418A-BE44-F5DB2394AA4E"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDEC34D3-506A-4B54-BAA8-4658A2BB42D5"
+    },
+    {
+      "class": "text",
+      "id": "627C01C0-4809-419F-A102-B0330D15F735"
+    },
+    {
+      "class": "text",
+      "id": "C983DAA1-2DFC-4512-8423-137FBDFD809C"
+    }
+  ],
+  "name": "ui left labeled button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

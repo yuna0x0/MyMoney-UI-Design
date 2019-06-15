@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5420BAC9-2634-4BA1-9E4B-16D4B6A50F6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 419,
+    "width": 890,
+    "x": 0,
+    "y": 244
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F3881A9B-FF64-4A9F-AB7E-BF25A8FC1FA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD14529C-3226-4222-9F92-697DCABC23A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DACB1444-16F9-4FA5-AC8C-7000A94DC22F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7CE4B8D-73AD-40EF-B5A7-EAAED1FD825C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C90DC3CC-FB84-4B09-8D48-57188239CB9A"
+    },
+    {
+      "class": "text",
+      "id": "10517DFF-2665-479C-B723-C093654F9C73"
+    }
+  ],
+  "name": "Textarea",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

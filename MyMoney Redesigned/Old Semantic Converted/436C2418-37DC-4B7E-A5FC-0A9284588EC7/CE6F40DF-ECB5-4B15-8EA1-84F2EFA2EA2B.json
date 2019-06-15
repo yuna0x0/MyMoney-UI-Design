@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE6F40DF-ECB5-4B15-8EA1-84F2EFA2EA2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EE06EAE-6E72-4F5B-8F6B-362E3FA7EF0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "357A6C8B-AAE9-4A41-933F-29347586F1D9",
+    "height": 26,
+    "width": 138,
+    "x": 1474,
+    "y": 1060
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tooltip/Simple Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCD82E6B-4583-492B-BFBF-DCE6E957D1F1",
+      "overrideName": "34BA3AF3-AA7F-454E-BDD6-7C33648173E8_stringValue",
+      "value": "That name is taken!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05DF2FB9-F370-4C1A-BAC6-BB6A04D59E3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9B17C22-7AA1-4E97-A1E7-49E0D21A4DED",
+  "verticalSpacing": 0
+}

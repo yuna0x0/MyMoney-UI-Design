@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "30B7AA1E-E770-49DF-958E-9F9D44CA4CFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 72,
+    "x": 1565,
+    "y": 670.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B50651C1-7E97-4AC5-A42C-518FAD257006"
+    },
+    {
+      "class": "text",
+      "id": "70F63630-2905-4BA9-B677-BBA59393FBD6"
+    },
+    {
+      "class": "rectangle",
+      "id": "36361DA2-4E06-456B-8B34-C24FE1E5D994"
+    },
+    {
+      "class": "text",
+      "id": "5A22C942-1879-4974-A314-017462EF6695"
+    }
+  ],
+  "name": "ui image label",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

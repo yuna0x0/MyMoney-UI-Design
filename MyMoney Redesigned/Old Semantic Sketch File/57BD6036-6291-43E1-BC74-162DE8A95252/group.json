@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "57BD6036-6291-43E1-BC74-162DE8A95252",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 237,
+    "x": -1722,
+    "y": 630.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8431309E-DBA8-4013-B036-8E4DD4E58C54"
+    },
+    {
+      "class": "rectangle",
+      "id": "B2C6E3AE-EF60-47C6-94C1-EB3C524A3498"
+    },
+    {
+      "class": "text",
+      "id": "D7FC93BC-E77D-4E3F-A787-4EE10FBEAF7B"
+    },
+    {
+      "class": "text",
+      "id": "FF80721A-50FD-4CFA-8DF2-7E747A8152CA"
+    }
+  ],
+  "name": "ui right labeled input",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

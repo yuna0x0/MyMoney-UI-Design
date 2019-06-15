@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C03585A1-CFC7-41B8-900E-ED0BDD06D9DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "535E2BFB-6129-433F-AB0E-CF5F26316012",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E4A5B32-AA48-4CAE-946A-FA1E4B7001C8",
+    "height": 17,
+    "width": 17,
+    "x": 14,
+    "y": 4
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Message",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1EE377D-84A9-4596-B1B3-B5B73AE3AD26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F181A96-9B1E-4B4F-88AE-60146AD03F96",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F2D3A40-E3CE-4F2C-A493-49E7D0141ED0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 167,
+    "width": 218,
+    "x": 1473,
+    "y": 2987.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2AF154F0-41FB-4BD0-ABF1-B6497E4FC976"
+    },
+    {
+      "class": "text",
+      "id": "8C0E66E5-81F1-4508-A5DD-1819479AEA43"
+    },
+    {
+      "class": "text",
+      "id": "0E5DBB3C-1379-4B4C-95B3-EA36CFE13839"
+    },
+    {
+      "class": "text",
+      "id": "A63F055F-5B9B-4ADF-92F0-0CB1378A1314"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A323F7D-33EE-478C-AA53-6BF0D43ABBB8"
+    }
+  ],
+  "name": "ui vertical fluid tabular menu",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

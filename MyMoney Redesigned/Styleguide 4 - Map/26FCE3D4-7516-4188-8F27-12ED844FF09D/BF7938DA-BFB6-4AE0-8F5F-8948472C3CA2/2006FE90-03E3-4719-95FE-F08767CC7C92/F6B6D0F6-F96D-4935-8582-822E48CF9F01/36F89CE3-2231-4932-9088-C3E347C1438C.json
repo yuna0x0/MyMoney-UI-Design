@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "36F89CE3-2231-4932-9088-C3E347C1438C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 520,
+    "x": 0,
+    "y": 175
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification - Error",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EB520B9-737F-4D7D-BDA7-CC75B17FE2B2/4D9F448A-71CC-4120-B3F7-24BE78153A9A_stringValue",
+      "value": "Error. Can’t connect to the platform."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "64A98F89-7023-4A2A-97D7-7D3C9AE09D05_stringValue",
+      "value": "Error. Can’t connect to the platform."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2BA4A48-5ABC-466F-A9D9-D8373AC6D6FA_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "72A18372-98FB-4B05-B8D9-EACF7EE13FED",
+  "verticalSpacing": 0
+}

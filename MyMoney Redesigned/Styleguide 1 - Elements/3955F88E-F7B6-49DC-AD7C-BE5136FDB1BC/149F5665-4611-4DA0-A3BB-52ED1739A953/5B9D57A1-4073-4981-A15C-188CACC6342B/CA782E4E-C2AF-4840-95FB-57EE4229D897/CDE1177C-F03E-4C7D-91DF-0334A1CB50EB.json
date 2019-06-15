@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDE1177C-F03E-4C7D-91DF-0334A1CB50EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 90,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inactive",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2279EB8-EEA4-434E-93B3-1846B34FF920/0CF0489A-A3C3-49F9-AAB2-92431DF07BE0_stringValue",
+      "value": "All Chapters"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23D66BD5-AAE0-4E35-8F1E-731A4294C502",
+      "overrideName": "EF20D804-9445-40ED-971C-9D19EE7F5FEA_stringValue",
+      "value": "Longer Text"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FEE567DC-0736-4B9A-8A7C-77894E3EC138",
+  "verticalSpacing": 0
+}
